@@ -16,3 +16,24 @@ Become an AI Automation Freelancer using n8n.
 
 ## Projects
 - Project 01 - In Progress
+## Project 01 - Basic n8n Workflow
+
+Workflow:
+
+* Manual Trigger
+
+* Edit Fields
+
+Data Used:
+
+* Customer Name
+
+* Email
+
+* Country
+
+* Visa Type
+
+Status:
+
+Completed ✅
