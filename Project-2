@@ -1,0 +1,21 @@
+## Project 02 - IF Node (Decision Making) ✅
+
+### Workflow
+Manual Trigger → Edit Fields → IF
+
+### Condition
+visaType == "Skilled Migration"
+
+### True Branch
+Status = Eligible
+
+### False Branch
+Status = Not Eligible
+
+### What I Learned
+- What is an IF Node
+- How to create conditions
+- Difference between True and False branches
+- How workflow makes decisions based on data
+
+Status: Completed ✅
