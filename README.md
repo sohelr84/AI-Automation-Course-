@@ -16,24 +16,41 @@ Become an AI Automation Freelancer using n8n.
 
 ## Projects
 - Project 01 - In Progress
-## Project 01 - Basic n8n Workflow
+## Project 01 - Basic Workflow ✅
 
-Workflow:
+### Workflow
+Manual Trigger → Edit Fields
 
-* Manual Trigger
+### What I Learned
+- What is a Workflow
+- What is a Trigger
+- How data flows between nodes
+- How to use Edit Fields node
+- How to execute a workflow
+- How to view output data
 
-* Edit Fields
+Status: Completed ✅
 
-Data Used:
+---
 
-* Customer Name
+## Project 02 - IF Node (Decision Making) ✅
 
-* Email
+### Workflow
+Manual Trigger → Edit Fields → IF
 
-* Country
+### Condition
+visaType == "Skilled Migration"
 
-* Visa Type
+### True Branch
+Status = Eligible
 
-Status:
+### False Branch
+Status = Not Eligible
 
-Completed ✅
+### What I Learned
+- What is an IF Node
+- How to create conditions
+- Difference between True and False branches
+- How workflow makes decisions based on data
+
+Status: Completed ✅
